@@ -1,4 +1,4 @@
-#Algorithms-Testing
+# Algorithms-Testing
 
 All the code in this repository was created as Student Projects for Algorithms and Data Structures.
 Includes various sorting methods both simple (e.g. SelectionSort, InsertionSort, BubbleSort) and more advanced (HeapSort, QuickSort, CountSort).
